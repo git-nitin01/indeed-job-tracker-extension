@@ -6,7 +6,7 @@ Built to solve a common problem: **Indeed doesn’t provide good filtering, sear
 
 ## Screenshots
 
-![App Screenshot](<img width="1716" height="1023" alt="Screenshot 2025-12-17 at 4 21 01 PM" src="https://github.com/user-attachments/assets/022456a2-545c-4fdb-953a-41d0e248b879" />)
+![App Screenshot](https://github.com/user-attachments/assets/022456a2-545c-4fdb-953a-41d0e248b879)
 
 ---
 
